@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! Thanks for checking in ✅
 
+I'm a full-stack software developer currently enrolled in the Actualize Bootcamp. My focus has been based around Ruby on Rails, HTML, & CSS, with a litany of other languages planned for the future. 
+
+- Fun fact: In my off time, you can find me live streaming over at my Twitch channel, [JohnnyOnTheMend](https://www.twitch.tv/johnnyonthemend). It's an inclusive community that prides itself on being supportive of one another, while also getting our fill
 <!--
 **JonathanMendler/JonathanMendler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
