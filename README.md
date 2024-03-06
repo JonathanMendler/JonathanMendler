@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jon.mendler@gmail.com**
 
-- ⚡ Fun fact **I live stream on Twitch (JohnnyOnTheMend)**
+- ⚡ Fun fact **I live stream on Twitch [JohnnyOnTheMend](https://www.twitch.tv/johnnyonthemend)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
