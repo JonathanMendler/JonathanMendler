@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate full stack developer located in the Chippewa Valley</h3>
 
-- 🔭 I’m currently working on [mobile responsiveness for an AI trivia game](https://dumbsplain.com/)
+- 🔭 At present, working on [mobile responsiveness for an AI trivia game](https://dumbsplain.com/)
 
 - 🌱 I’m currently learning **Python, Docker, and Kubernetes**
 
-- 📫 How to reach me **jon.mendler@gmail.com**
+- 📫 How to reach me <jon.mendler@gmail.com>
 
 - ⚡ Fun fact **I live stream on Twitch [JohnnyOnTheMend](https://www.twitch.tv/johnnyonthemend)**
 
